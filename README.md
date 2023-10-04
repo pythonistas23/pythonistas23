@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pythonistas23
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python & looking for a data scientist role to put the theories I am learning during my master's degree into practice
+- 🌱 I’m currently l looking for data scientist role to put the theories I am learning during my master's Data Science degree into practice
 - 💞️ I’m looking to collaborate on Data Scientist' project 
 - 📫 How to reach me by email  
 <!---
